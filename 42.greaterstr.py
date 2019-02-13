@@ -1,5 +1,5 @@
 k,l=input().split()
-if len(k)>=len(l):
-    print(k)
-else:
+if len(l)>=len(k):
     print(l)
+else:
+    print(k)
